@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1D9B57"/><stop offset="1" stop-color="#1C6ED3"/></linearGradient></defs>
+<rect width="800" height="300" rx="44" fill="#fff"/>
+<g font-family="Arial, sans-serif" fill="#16324F">
+<text x="400" y="65" text-anchor="middle" font-size="43" font-weight="800">TRILHAS DA PREVENÇÃO</text>
+<text x="400" y="107" text-anchor="middle" font-size="27" font-weight="700" fill="#5A3D91">ESCOLHAS QUE CONTAM</text>
+</g>
+<path d="M105 225C160 145 245 135 325 184S480 245 685 138" fill="none" stroke="url(#g)" stroke-width="30" stroke-linecap="round"/>
+<circle cx="105" cy="225" r="30" fill="#27AE60"/>
+<circle cx="685" cy="138" r="34" fill="#F2C94C"/>
+<text x="400" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#16324F">Educação • autonomia • cuidado</text>
+</svg>

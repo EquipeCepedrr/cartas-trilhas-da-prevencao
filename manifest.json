@@ -1,0 +1,33 @@
+{
+  "name": "Trilhas da Prevenção: Escolhas que Contam",
+  "short_name": "Trilhas",
+  "description": "Jogo educativo de prevenção ao uso e abuso de álcool e outras drogas.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef5f3",
+  "theme_color": "#176c43",
+  "categories": ["education", "health", "games"],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

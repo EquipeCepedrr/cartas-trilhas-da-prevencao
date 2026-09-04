@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ar01",
+    "type": "armadilha",
+    "title": "Armadilha 1",
+    "text": "Você experimentou drogas com os amigos e deixou de estudar.",
+    "effect": {
+      "kind": "move",
+      "value": -2
+    },
+    "consequence": "Volte duas casas."
+  },
+  {
+    "id": "ar02",
+    "type": "armadilha",
+    "title": "Armadilha 2",
+    "text": "Numa festa, na Praça Germano Sampaio, você usou muitas drogas diferentes ao mesmo tempo e teve uma overdose.",
+    "effect": {
+      "kind": "skip",
+      "value": 1
+    },
+    "consequence": "Fique um turno sem jogar."
+  },
+  {
+    "id": "ar03",
+    "type": "armadilha",
+    "title": "Armadilha 3",
+    "text": "Um rapaz bem mais velho que você ofereceu drogas e você aceitou.",
+    "effect": {
+      "kind": "skip",
+      "value": 1
+    },
+    "consequence": "Fique um turno sem jogar."
+  },
+  {
+    "id": "ar04",
+    "type": "armadilha",
+    "title": "Armadilha 4",
+    "text": "Você ofereceu drogas para um amigo que nunca usou; agora ele está passando mal.",
+    "effect": {
+      "kind": "skip",
+      "value": 1
+    },
+    "consequence": "Fique um turno sem jogar."
+  },
+  {
+    "id": "ar05",
+    "type": "armadilha",
+    "title": "Armadilha 5",
+    "text": "Você roubou dinheiro de um membro da família para comprar drogas.",
+    "effect": {
+      "kind": "skip",
+      "value": 1
+    },
+    "consequence": "Fique um turno sem jogar."
+  },
+  {
+    "id": "ap01",
+    "type": "autonomia",
+    "title": "Autonomia 1",
+    "text": "Você recusou drogas de um amigo e focou nos estudos.",
+    "effect": {
+      "kind": "move",
+      "value": 2
+    },
+    "consequence": "Avance duas casas."
+  },
+  {
+    "id": "ap02",
+    "type": "autonomia",
+    "title": "Autonomia 2",
+    "text": "Após uma palestra de prevenção, você alertou seus amigos a não usarem muitas drogas ao mesmo tempo.",
+    "effect": {
+      "kind": "move",
+      "value": 1
+    },
+    "consequence": "Avance uma casa."
+  },
+  {
+    "id": "ap03",
+    "type": "autonomia",
+    "title": "Autonomia 3",
+    "text": "Alguém lhe ofereceu um cigarro estranho na Praça das Águas e você recusou.",
+    "effect": {
+      "kind": "move",
+      "value": 1
+    },
+    "consequence": "Avance uma casa."
+  },
+  {
+    "id": "ap04",
+    "type": "autonomia",
+    "title": "Autonomia 4",
+    "text": "Você informou os perigos de usar uma substância desconhecida que seu amigo queria experimentar.",
+    "effect": {
+      "kind": "move",
+      "value": 2
+    },
+    "consequence": "Avance duas casas."
+  },
+  {
+    "id": "ap05",
+    "type": "autonomia",
+    "title": "Autonomia 5",
+    "text": "Seus amigos acharam um líquido estranho que provocava alterações de comportamento no Parque Anauá. Você recusou o uso e alertou sobre os perigos da substância.",
+    "effect": {
+      "kind": "move",
+      "value": 2
+    },
+    "consequence": "Avance duas casas."
+  }
+]
